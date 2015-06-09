@@ -1,8 +1,9 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: WCBF
+description: Spreading the Gospel across Western Canada
 
-url: http://brianmaierjr.github.com/long-haul
-baseurl: "/long-haul"
+url: http://wcbf.net/
+baseurl: ""
+
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -17,11 +18,17 @@ navigation:
    url: /about
  - title: Contact
    url: /contact
+ - title: History and Beliefs
+   url: /beliefs/
+    # - title: Constitution
+      # url: /beliefs/constitution.html
+ - title: Purpose
+   url: /purpose
 
-social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+# social:
+#    github: brianmaierjr
+#    twitter: brianmaierjr
+#    facebook: brianmaierjr
+#    email: brimaidesigns@gmail.com
 
-google_analytics: "UA-58263416-1"
+# google_analytics: "UA-58263416-1"

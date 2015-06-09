@@ -32,7 +32,6 @@ If you really enjoy Long Haul and want to give me credit somewhere on the send o
 7. Run `compass watch`
 8. Customize!
 
-
 ## Site Settings
 
 The main settings can be found inside the `_config.yml` file:
