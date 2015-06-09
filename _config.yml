@@ -2,7 +2,7 @@ title: WCBF
 description: Spreading the Gospel across Western Canada
 
 url: http://duncanjohnson.ca/
-baseurl: "/wcbf/"
+baseurl: "/wcbf"
 
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
