@@ -14,16 +14,14 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: About
-   url: /about
- - title: Contact
-   url: /contact
+ - title: Membership
+   url: /membership.html
  - title: History and Beliefs
-   url: /beliefs/
-    # - title: Constitution
-      # url: /beliefs/constitution.html
- - title: Purpose
-   url: /purpose
+   url: /beliefs.html
+ - title: Constitution
+   url: /constitution.html
+ - title: Whetstone Newsletter
+   url: /newsletter.html
 
 # social:
 #    github: brianmaierjr
