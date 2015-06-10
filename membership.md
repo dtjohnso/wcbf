@@ -24,7 +24,7 @@ Affiliates and Members
 ### British Columbia 
 
 **Don Johnson**  
-[Grace Baptist Church of Victoria](http://www.gbcvic.org) 
+[Grace Baptist Church of Victoria](http://www.gbcvic.org)
 
 ### Alberta 
 
@@ -35,48 +35,48 @@ Grand Prairie Baptist Church
 **Ernie Miller**  
 [Bible Baptist Church](http://www.edmontonbiblebaptist.com/), Edmonton
 
-**Tim Nissly\***  
+**Tim Nissly\* **  
 [Foundation Baptist Church](http://www.foundationbaptist.ca), Edmonton
 
-**David Pruden\***  
-**Bud Talbert\***  
+**David Pruden\* **  
+**Bud Talbert\* **  
 [Lighthouse Baptist Church](http://www.lighthousebaptist.ca/), Edmonton
 
-**Jim Tillotson\***  
-**Jerry Ascher\***  
+**Jim Tillotson\* **  
+**Jerry Ascher\* **  
 [Meadowlands Baptist Church](http://www.meadowlandsbaptist.com), Edmonton
 
-**Andy Rynsburger\***  
+**Andy Rynsburger\* **  
 [Grace Baptist Church](http://www.gracebaptist.ca/), Red Deer
 
-**Cyril Syroteuk\***  
+**Cyril Syroteuk\* **  
 [Emmanuel Baptist Church](http://www.emmanuelbaptist3hills.ca),Three Hills 
 
-**Rod Alsup\***  
+**Rod Alsup\* **  
 Cornerstone Baptist Church, Calgary
 
-**Michael Miller\***  
+**Michael Miller\* **  
 [Foundation Baptist Church](http://www.foundationbaptistchurch.com), Calgary
 
-**Barkley May\***  
+**Barkley May\* **  
 [MacKenzie Highway Baptist Church](http://www.mhbchighlevel.com), High Level
 
-**Greg Bartlett\***  
+**Greg Bartlett\* **  
 [Northlight Baptist Church](http://www.northlightbaptist.ca), Athabasca
 
 
 ### Saskatchewan 
 
-**Chris Hammond\***  
+**Chris Hammond\* **  
 [Open Door Baptist Church](http://www.odbaptist.ca), Saskatoon
 
-**Mike Duguay\***  
+**Mike Duguay\* **  
 [Prairie Baptist Church](http://www.prairiebaptist.ca), Swift Current
 
-**Roger Foust\***  
+**Roger Foust\* **  
 Moose Jaw Baptist Church, Moose Jaw
 
-**Tim Friesen\***  
+**Tim Friesen\* **  
 Cornerstone Baptist Church, Regina
 
 \* denotes WCBF Members
