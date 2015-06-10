@@ -13,14 +13,12 @@ It is our conviction that the Biblical concept of fellowship demands that we end
 What does the WCBF believe?
 ---------------------------
 
-We believe that the sixty-six books of the Bible are divinely inspired in their original writing, and therefore the only rule for faith and practice.
+Below is a summary of key distinctives taken from the WCBF Statement of Faith. Please see the [Constitution]({{ '/constitution.html' | prepend: site.baseurl }}) for a complete Statement of Faith.
 
-We believe that there is only one God who exists in three persons:  Father, Son, and Spirit.  This God is spirit, infinite, unchangeable, omniscient, omnipresent, and omnipotent.  He is distinguished in His love, mercy and grace by His immutable justice and holiness.
 
-We believe in the virgin birth, virtuous life, vicarious death, and victorious resurrection of the Lord Jesus Christ, Who is the Saviour of all who put their faith in Him.
+* We believe that the sixty-six books of the Bible are divinely inspired in their original writing, and therefore the only rule for faith and practice.
+* We believe that there is only one God who exists in three persons:  Father, Son, and Spirit.  This God is spirit, infinite, unchangeable, omniscient, omnipresent, and omnipotent.  He is distinguished in His love, mercy and grace by His immutable justice and holiness.
+* We believe in the virgin birth, virtuous life, vicarious death, and victorious resurrection of the Lord Jesus Christ, Who is the Saviour of all who put their faith in Him.
+* We believe that all mankind are sinful by nature and by choice, and therefore under the just and eternal condemnation of God. However, anyone who will repent of sin and believe God will be saved from sin’s penalty, power and presence.
+* We believe that the local church is a congregation of baptized believers associated together by a common faith in the gospel for obedience to the Lord’s Word, observance of the Lord’s ordinances, and the extension of the Lord’s gospel to the ends of the earth.
 
-We believe that all mankind are sinful by nature and by choice, and therefore under the just and eternal condemnation of God. However, anyone who will repent of sin and believe God will be saved from sin’s penalty, power and presence.
-
-We believe that the local church is a congregation of baptized believers associated together by a common faith in the gospel for obedience to the Lord’s Word, observance of the Lord’s ordinances, and the extension of the Lord’s gospel to the ends of the earth.
-
-(Please see the [Constitution]({{ '/constitution.html' | prepend: site.baseurl }}) for a complete statement of faith.)
