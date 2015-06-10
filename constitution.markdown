@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: post
 title: Constitution and Statement of Faith
 ---
 
-
-<!-- ***(For a PDF version of our constitution, please click [here](/index.php/download_file/view/6/79/ "WCBF_Constitution.pdf").)*** -->
+*Also available in [PDF format]({{ '/assets/pdf/WCBF_Constitution.pdf' | prepend: site.baseurl }})*
 
 ## ARTICLE I (NAME)
 

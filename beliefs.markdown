@@ -23,4 +23,4 @@ We believe that all mankind are sinful by nature and by choice, and therefore un
 
 We believe that the local church is a congregation of baptized believers associated together by a common faith in the gospel for obedience to the Lord’s Word, observance of the Lord’s ordinances, and the extension of the Lord’s gospel to the ends of the earth.
 
-(Please see the Constitution for a complete statement of faith.)
+(Please see the [Constitution]({{ '/constitution.html' | prepend: site.baseurl }}) for a complete statement of faith.)

@@ -14,7 +14,7 @@ Why should I join the WCBF?
 How do I join the WCBF?
 -----------------------
 
-From Article 3, Section 2 of our Constitution:
+From Article 3, Section 2 of our [Constitution]({{ '/constitution.html' | prepend: site.baseurl }}):
 
 > Churches or individuals desiring to affiliate with the Fellowship shall apply in writing to the executive committee and shall be received into membership by a two-thirds (2/3) majority vote of the pastors present and voting at the next annual meeting.
 
