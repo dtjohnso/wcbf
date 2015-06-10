@@ -1,10 +1,20 @@
 ---
-layout: default
+layout: page
 title: Western Canada Baptist Fellowship
 ---
 
 <div class="home" id="home">
-  <h1 class="pageTitle">Recent Posts</h1>
+
+<p class="intro">The Western Canada Baptist Fellowship is a fellowship of pastors who seek to further the spread of the Gospel across western Canada.</p>
+
+<p>The WCBF exists to provide fellowship while stimulating a common vision, enthusiasm, and commitment to evangelism and missions. Conceived out of a burden to serve local churches and pastors, the WCBF does not infringe on local church autonomy.</p>
+
+<p>Each year the fellowship sponsors conferences, retreats, camps and special preaching services to encourage the brethren and to help adjust our focus on Jesus Christ in these days of apostasy and degeneracy.</p>
+
+<blockquote><p>And they continued steadfastly in the apostles' doctrine and fellowship, and in breaking of bread, and in prayers. (Acts 2:42)</p></blockquote>
+
+
+  <!-- <h1 class="pageTitle">Recent Posts</h1>
   <ul class="posts noList">
     {% for post in paginator.posts %}
       <li>
@@ -13,14 +23,14 @@ title: Western Canada Baptist Fellowship
         <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
       </li>
     {% endfor %}
-  </ul>
+  </ul>-->
   <!-- Pagination links -->
-  <div class="pagination">
+  <!-- <div class="pagination">
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Newer Posts</a> 
     {% endif %}
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Older Posts</a>
     {% endif %}
-  </div>
+  </div> -->
 </div>
