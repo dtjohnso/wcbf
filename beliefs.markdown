@@ -23,15 +23,4 @@ We believe that all mankind are sinful by nature and by choice, and therefore un
 
 We believe that the local church is a congregation of baptized believers associated together by a common faith in the gospel for obedience to the Lord’s Word, observance of the Lord’s ordinances, and the extension of the Lord’s gospel to the ends of the earth.
 
-(Please see the [constitution](/beliefs/constitution.html "Constitution") for a complete statement of faith.)
-
-Why should I join the WCBF?
----------------------------
-
-First, we believe that the fellowship is essential in these days and in our region.
-
-Second, we believe that the information provided will be of great benefit to pastors and brethren in our day of compromise.
-
-Third, we believe that your affiliation in his fellowship would enable us to plant more churches in western Canada.
-
-Fourth, we believe that the WCBF can provide Scriptural fellowship for dissenting members of other denominations which have compromised the truth by their affiliation with disobedience.
+(Please see the Constitution for a complete statement of faith.)

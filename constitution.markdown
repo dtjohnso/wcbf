@@ -1,25 +1,28 @@
 ---
 layout: page
-title: Constitution
+title: Constitution and Statement of Faith
 ---
 
-## The Constitution and Statement of Faith of the Western Canada Baptist Fellowship
 
 <!-- ***(For a PDF version of our constitution, please click [here](/index.php/download_file/view/6/79/ "WCBF_Constitution.pdf").)*** -->
 
-### ARTICLE I. NAME
+## ARTICLE I (NAME)
 
 The name of this organization shall be the WESTERN CANADA BAPTIST FELLOWSHIP (hereafter WCBF).
 
-### ARTICLE II (PURPOSE) 
+## ARTICLE II (PURPOSE)
 
-SECTION 1. The purpose shall be to provide fellowship among the Baptist churches, pastors and missionaries of western Canada that are in full agreement with the doctrinal statement set forth in ARTICLE II, SECTION 2, and to stimulate a common vision, a common enthusiasm and a common commitment among fellowshipping churches in the advancement of the common task of evangelistic and missionary endeavours.
+### SECTION 1.
+
+The purpose shall be to provide fellowship among the Baptist churches, pastors and missionaries of western Canada that are in full agreement with the doctrinal statement set forth in ARTICLE II, SECTION 2, and to stimulate a common vision, a common enthusiasm and a common commitment among fellowshipping churches in the advancement of the common task of evangelistic and missionary endeavours.
 
 We believe that Scriptural fellowship encourages believers to live a holy life in submission to the Lord and Saviour Jesus Christ, that it promotes a godly forbearance of each other’s’ differences of conviction, and that it is marked by a desire to hold one another willingly accountable in love to live godly in Christ Jesus until He comes. It is the purpose of the WCBF to promote such fellowship.
 
 We believe that a limited organizational structure is needed to provide fellowship among Biblical, Baptistic, separatist local churches, to unite the testimony of our churches in these days of apostasy and departure from the clear teachings of the Scriptures, to protect our churches from the ecumenical movement and from possible future government action against “Isolationist” churches, and to oppose the spread of New Evangelicalism and Charismaticism while ensuring each local congregation of full liberty and autonomy.
 
-SECTION 2. We adopt the following Doctrinal Statement:
+### SECTION 2.
+
+We adopt the following Doctrinal Statement:
 
 1\. We believe that the Bible, sixty-six books in the Old and New Testaments, is without error in its original writing, that its author was God using Spirit-guided men, and that it is verbally and plenarily inspired, the only authority for faith and conduct.
 (Prov. 30:5,6; John 17:17; II Peter 1:19-21; Acts 3:21; Heb. 1:1-3; II Sam. 23:2; I Cor. 2:13,14; II Tim. 3:15-16; Matt. 5:18; II Peter 3:15-16; Acts 17:11; I John 4:1)
@@ -48,25 +51,37 @@ SECTION 2. We adopt the following Doctrinal Statement:
 9\. We believe the Scriptures teach total and complete separation from all forms of heresy and ecclesiastical apostasy such as is seen within the World Council of Churches and its Canadian Council of Churches, the Evangelical Fellowship of Canada, the Charismatic Movement, and others. The Scriptures teach that we are to try them, mark them, rebuke them, have no fellowship, withdraw ourselves, have no company with them, and separate from them.
 (I John 4:1; Rom. 16:17; Titus 1:13; Eph. 5:11; II Thess. 3:6,14; II John 10,11; II Cor. 6:17; Titus 3:10)
 
-SECTION 3. Nothing in this Constitution may be construed to infringe in any way upon the complete independence and autonomy of the affiliated church.
+### SECTION 3.
 
-### ARTICLE III (AFFILIATES) 
+Nothing in this Constitution may be construed to infringe in any way upon the complete independence and autonomy of the affiliated church.
 
-SECTION 1. The affiliates of the Fellowship shall consist of:
+## ARTICLE III (AFFILIATES) 
+
+### SECTION 1.
+
+The affiliates of the Fellowship shall consist of:
 
 A. Baptist churches within western Canada that are in full agreement with the statement of purpose and faith as set forth in ARTICLE II.
 
 B. Pastors and missionaries of developing churches who are in full agreement with the statement of purpose and faith as found in ARTICLE II.
 
-SECTION 2. Churches or individuals desiring to affiliate with the Fellowship shall apply in writing to the executive committee and shall be received into membership by a two-thirds (2/3) majority vote of the pastors present and voting at the next annual meeting.
+### SECTION 2.
 
-SECTION 3. Any fellowshipping church or individual, ceasing to be in agreement with the statement of faith and purpose of this Fellowship, shall withdraw by notifying the executive committee in writing.
+Churches or individuals desiring to affiliate with the Fellowship shall apply in writing to the executive committee and shall be received into membership by a two-thirds (2/3) majority vote of the pastors present and voting at the next annual meeting.
 
-### ARTICLE IV (OFFICES) 
+### SECTION 3.
 
-SECTION 1. The executive officers of the Fellowship shall be: President, Vice-President, Secretary, Treasurer, and Area Representatives as each is deemed necessary.
+Any fellowshipping church or individual, ceasing to be in agreement with the statement of faith and purpose of this Fellowship, shall withdraw by notifying the executive committee in writing.
 
-SECTION 2. The executive committee shall consist of the officers of the Fellowship as listed in SECTION 1.
+## ARTICLE IV (OFFICES) 
+
+### SECTION 1.
+
+The executive officers of the Fellowship shall be: President, Vice-President, Secretary, Treasurer, and Area Representatives as each is deemed necessary.
+
+### SECTION 2.
+
+The executive committee shall consist of the officers of the Fellowship as listed in SECTION 1.
 
 A. This committee shall carry forward the will of the constituency between the meetings of the Fellowship. All policies and actions shall be subject to review by the constituency at the Annual Meetings.
 
@@ -76,40 +91,64 @@ C. The committee shall meet a minimum of three times a year including a meeting 
 
 D. The committee shall have the authority to fill offices made vacant by departure, death, resignation or cessation of fellowship, with such appointments to continue until the next Annual Meeting.
 
-SECTION 3. Area Representatives, as they are deemed necessary, shall be elected at the Annual Meeting to represent geographical areas as determined by the executive committee and approved by the constituency.
+### SECTION 3.
 
-SECTION 4. The executive officers and area representatives shall be elected bi-annually and shall hold office for two years. The President, Treasurer, and Western Representatives shall be elected on an odd year basis while the Vice President, Secretary and Eastern Representatives shall be elected on an even year basis. No person shall hold office for more than two consecutive terms without sitting out for a year.
+Area Representatives, as they are deemed necessary, shall be elected at the Annual Meeting to represent geographical areas as determined by the executive committee and approved by the constituency.
 
-SECTION 5. All officers shall be pastors of churches affiliated with the Western Canada Baptist Fellowship. All officers appointed to office must present the written approval of the respective local churches before assuming office.
+### SECTION 4.
 
-SECTION 6. Nominations for executive offices shall be received from the constituency one month prior to the annual meeting.
+The executive officers and area representatives shall be elected bi-annually and shall hold office for two years. The President, Treasurer, and Western Representatives shall be elected on an odd year basis while the Vice President, Secretary and Eastern Representatives shall be elected on an even year basis. No person shall hold office for more than two consecutive terms without sitting out for a year.
 
+### SECTION 5.
 
+All officers shall be pastors of churches affiliated with the Western Canada Baptist Fellowship. All officers appointed to office must present the written approval of the respective local churches before assuming office.
 
-### ARTICLE V (ADDITIONAL COMMITTEES) 
+### SECTION 6.
+
+Nominations for executive offices shall be received from the constituency one month prior to the annual meeting.
+
+## ARTICLE V (ADDITIONAL COMMITTEES) 
 
 Special committees shall be created as the constituency shall decide at any Annual Meeting.
 
-### ARTICLE VI (MEETINGS) 
+## ARTICLE VI (MEETINGS) 
 
-SECTION 1. There shall be an Annual Meeting of the Fellowship held in the Fall of each year.
+### SECTION 1.
 
-SECTION 2. The Executive Committee may call a special meeting of the Fellowship by a two-thirds majority vote, with written notice stating the purpose to be given to members forty-five (45) days in advance of the meeting.
+There shall be an Annual Meeting of the Fellowship held in the Fall of each year.
 
-SECTION 3. The President of the Executive Committee shall preside at all meetings of the Fellowship and the Executive Committee.
+### SECTION 2.
 
-SECTION 4. The Vice-President shall serve in the absence of the President.
+The Executive Committee may call a special meeting of the Fellowship by a two-thirds majority vote, with written notice stating the purpose to be given to members forty-five (45) days in advance of the meeting.
 
-SECTION 5. The Secretary shall keep a complete, faithful, and permanent record of all actions of the Fellowship as well as the minutes of the Executive Committee.
+### SECTION 3.
 
-SECTION 6. The Treasurer shall receive, disburse, and record all moneys as directed by the Executive Committee and ratified by the constituency. Annual conference expenses and honorarium shall be taken from the free offerings collected at the conference meetings, and any shortfall should be taken from the WCBF account.
+The President of the Executive Committee shall preside at all meetings of the Fellowship and the Executive Committee.
 
-SECTION 7. The Area Representatives shall develop fellowship for the pastors and wives in their area through regular contact and meetings geared toward orientation, information, assistance, growth and encouragement. They shall develop friendships with other Independent Baptist churches in their area that are not affiliated and to encourage them to fellowship with us. Though being opposed to any intrusive or denominational overlordship, the Area Representatives do want to be available to help.
+### SECTION 4.
 
-SECTION 8. Quorum: The Executive Committee shall proceed with its business upon the attendance of two-thirds of its members. A fifty percent representation of all the churches and/or pastors of the Fellowship is required as a quorum at the Annual or Special meetings to carry on the work of the Fellowship.
+The Vice-President shall serve in the absence of the President.
 
-SECTION 9. All business of the Fellowship shall be conducted according to Robert’s Rules of Order (Latest Edition) and be under the direction of the Executive Committee.
+### SECTION 5.
 
-### ARTICLE VII (AMENDMENTS) 
+The Secretary shall keep a complete, faithful, and permanent record of all actions of the Fellowship as well as the minutes of the Executive Committee.
+
+### SECTION 6.
+
+The Treasurer shall receive, disburse, and record all moneys as directed by the Executive Committee and ratified by the constituency. Annual conference expenses and honorarium shall be taken from the free offerings collected at the conference meetings, and any shortfall should be taken from the WCBF account.
+
+### SECTION 7.
+
+The Area Representatives shall develop fellowship for the pastors and wives in their area through regular contact and meetings geared toward orientation, information, assistance, growth and encouragement. They shall develop friendships with other Independent Baptist churches in their area that are not affiliated and to encourage them to fellowship with us. Though being opposed to any intrusive or denominational overlordship, the Area Representatives do want to be available to help.
+
+### SECTION 8.
+
+Quorum: The Executive Committee shall proceed with its business upon the attendance of two-thirds of its members. A fifty percent representation of all the churches and/or pastors of the Fellowship is required as a quorum at the Annual or Special meetings to carry on the work of the Fellowship.
+
+### SECTION 9.
+
+All business of the Fellowship shall be conducted according to Robert’s Rules of Order (Latest Edition) and be under the direction of the Executive Committee.
+
+## ARTICLE VII (AMENDMENTS) 
 
 This Constitution may be amended by an affirmative vote of not less than two-thirds of the voting affiliates present and voting at the Annual Meeting. No pro-posed amendments will be acted upon unless due notice is mailed to each fellowshipping church by the Secretary not less than sixty (60) days prior to the Annual Meeting.
