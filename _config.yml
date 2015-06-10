@@ -1,8 +1,8 @@
 title: Western Canada Baptist Fellowship
 description: Spreading the Gospel across Western Canada
 
-url: http://duncanjohnson.ca/
-baseurl: "/wcbf"
+url: http://wcbf.net/
+baseurl: ""
 
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -13,7 +13,7 @@ paginate: 5
 
 sass:
   style: compressed
-  
+
 navigation:
  - title: Home
    url: /index.html
