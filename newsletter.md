@@ -24,4 +24,4 @@ title: Whetstone Newsletter
 	@media only screen and (min-width: 800px) {.campaign { margin-left: 6.5rem; }}
 </style>
 
-<p><script language="javascript" src="http://us1.campaign-archive2.com/generate-js/?u=949e81950463192dfc8ffa373&fid=50041" type="text/javascript"></script></p>
+<p><script language="javascript" src="//us1.campaign-archive2.com/generate-js/?u=949e81950463192dfc8ffa373&fid=50041" type="text/javascript"></script></p>
