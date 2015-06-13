@@ -31,7 +31,6 @@ Affiliates and Members
 **Dustin Falconer**  
 Grand Prairie Baptist Church
 
-
 **Ernie Miller**  
 [Bible Baptist Church](http://www.edmontonbiblebaptist.com/), Edmonton
 
@@ -45,6 +44,9 @@ Grand Prairie Baptist Church
 **Jim Tillotson**\*  
 **Jerry Ascher**\*  
 [Meadowlands Baptist Church](http://www.meadowlandsbaptist.com), Edmonton
+
+**Jim MacPhee**  
+[Beaumont Baptist Church](http://beaumontbaptist.com), Beaumont
 
 **Andy Rynsburger**\*  
 [Grace Baptist Church](http://www.gracebaptist.ca/), Red Deer
