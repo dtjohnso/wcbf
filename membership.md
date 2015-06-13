@@ -46,7 +46,7 @@ Grand Prairie Baptist Church
 [Meadowlands Baptist Church](http://www.meadowlandsbaptist.com), Edmonton
 
 **Jim MacPhee**  
-[Beaumont Baptist Church](http://beaumontbaptist.com), Beaumont
+[Beaumont Baptist Church](http://www.beaumontbaptist.ca/), Beaumont
 
 **Andy Rynsburger**\*  
 [Grace Baptist Church](http://www.gracebaptist.ca/), Red Deer
