@@ -41,8 +41,9 @@ Grand Prairie Baptist Church
 **Bud Talbert**\*  
 [Lighthouse Baptist Church](http://www.lighthousebaptist.ca/), Edmonton
 
-**Jim Tillotson**\*  
+**Kevin Williams**\*  
 **Jerry Ascher**\*  
+**Nate Utley**  
 [Meadowlands Baptist Church](http://www.meadowlandsbaptist.com), Edmonton
 
 **Jim MacPhee**  
