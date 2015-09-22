@@ -74,7 +74,7 @@ Cornerstone Baptist Church, Calgary
 [Open Door Baptist Church](http://www.odbaptist.ca), Saskatoon
 
 **Mike Duguay**\*  
-[Prairie Baptist Church](http://www.prairiebaptist.ca), Swift Current
+[Good News Baptist Church](http://www.goodnewsbaptist.ca), Swift Current
 
 **Roger Foust**\*  
 Moose Jaw Baptist Church, Moose Jaw
