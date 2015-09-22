@@ -56,7 +56,7 @@ Grand Prairie Baptist Church
 [Emmanuel Baptist Church](http://www.emmanuelbaptist3hills.ca),Three Hills 
 
 **Rod Alsup**\*  
-Cornerstone Baptist Church, Calgary
+[Cornerstone Baptist Church](http://cornerstonebaptistcalgary.com/), Calgary
 
 **Michael Miller**\*  
 [Foundation Baptist Church](http://www.foundationbaptistchurch.com), Calgary
@@ -77,9 +77,9 @@ Cornerstone Baptist Church, Calgary
 [Good News Baptist Church](http://www.goodnewsbaptist.ca), Swift Current
 
 **Roger Foust**\*  
-Moose Jaw Baptist Church, Moose Jaw
+[Moose Jaw Baptist Church](http://www.mjbaptist.com/), Moose Jaw
 
 **Tim Friesen**\*  
-Cornerstone Baptist Church, Regina
+[Cornerstone Baptist Church](http://cornerstonebaptistchurch.ca/), Regina
 
 \* denotes WCBF Members
