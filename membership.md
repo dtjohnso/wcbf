@@ -31,7 +31,6 @@ Affiliates and Members
 **Dustin Falconer**  
 Grand Prairie Baptist Church
 
-**Ernie Miller**  
 [Bible Baptist Church](http://www.edmontonbiblebaptist.com/), Edmonton
 
 **Tim Nissly**\*  
