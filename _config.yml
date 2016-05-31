@@ -17,6 +17,8 @@ sass:
 navigation:
  - title: Home
    url: /index.html
+ - title: Conference
+   url: /conference.html
  - title: Membership
    url: /membership.html
  - title: History and Beliefs
