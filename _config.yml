@@ -18,15 +18,15 @@ navigation:
  - title: Home
    url: /index.html
  - title: Conference
-   url: /conference.html
+   url: /conference/
  - title: Membership
-   url: /membership.html
+   url: /membership/
  - title: History and Beliefs
-   url: /beliefs.html
+   url: /beliefs/
  - title: Constitution
-   url: /constitution.html
+   url: /constitution/
  - title: Email Newsletter
-   url: /newsletter.html
+   url: /newsletter/
 
 # social:
 #    github: brianmaierjr
