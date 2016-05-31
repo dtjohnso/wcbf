@@ -13,7 +13,7 @@ title: Annual Conference
 ## 2016 theme: The Supremacy of Christ
 
 <blockquote>
-	<strong><span>Colossians 1:15&ndash;18</span></strong> "He is the image of the invisible God, the firstborn of all creation. For by Him all things were created, both in the heavens and on the earth... all things were created by Him and for Him. And He is before all things, and by Him all things hold together. And He is the head of the body, the church, the firstborn from the dead, so that in all things He might have the preeminence."
+	<p><strong><span>Colossians 1:15&ndash;18</span></strong> "He is the image of the invisible God, the firstborn of all creation. For by Him all things were created, both in the heavens and on the earth... all things were created by Him and for Him. And He is before all things, and by Him all things hold together. And He is the head of the body, the church, the firstborn from the dead, so that in all things He might have the preeminence."</p>
 </blockquote>
 
 For believers, one of our greatest joys is to grow in grace and in the knowledge of our Lord and Saviour, Jesus Christ. But sometimes we don’t slow down enough to even look at Christ. That’s why I chose this theme for our Conference.
