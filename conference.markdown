@@ -3,6 +3,12 @@ layout: page
 title: Annual Conference
 ---
 
+## 2017 Conference
+
+The 2017 WCBF Annual Conference will be held at [Meadowlands Baptist Church](http://www.meadowlandsbaptist.ca/) in Edmonton, AB on June 22--23, 2017. Further details will be posted here when they become available. The information below pertains to the 2016 meeting held in Calgary, AB.
+
+-------------
+
 ## Quick Facts
 
 * Hosted by [Foundation Baptist Church of Calgary](http://www.foundationbaptistchurch.com/)
