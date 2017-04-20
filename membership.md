@@ -45,7 +45,6 @@ Grand Prairie Baptist Church
 **Nate Utley**  
 [Meadowlands Baptist Church](http://www.meadowlandsbaptist.com), Edmonton
 
-**Jim MacPhee**  
 [Beaumont Baptist Church](http://www.beaumontbaptist.ca/), Beaumont
 
 **Andy Rynsburger**\*  
