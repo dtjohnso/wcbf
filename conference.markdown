@@ -59,8 +59,8 @@ For over 21 years, by His grace, Bill and Terri had the privilege of establishin
 
 ## Location
 
-Moose Jaw Baptist Church\
-965 Hochelaga Street W\
+Moose Jaw Baptist Church  
+965 Hochelaga Street W  
 Moose Jaw SK
 
 <p>
