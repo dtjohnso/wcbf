@@ -22,7 +22,7 @@ In 2018, the conference will be held at [Meadowlands Baptist Church](http://www.
 ## 2017 theme: Faithful Men
 
 <blockquote>
-	<p><strong><span>2 Timothy 2:1&ndash;2</span></strong> "Thou therefore, my son, be strong in the grace that is in Christ Jesus. And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also. "</p>
+	<p><strong><span>2 Timothy 2:1&ndash;2</span></strong> "Thou therefore, my son, be strong in the grace that is in Christ Jesus. And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also."</p>
 </blockquote>
 
 For 35 years Pastor Roger Foust has faithfully served the Lord in Moose Jaw.  He came here directed of the Lord to begin a ministry where none existed.
@@ -59,8 +59,8 @@ For over 21 years, by His grace, Bill and Terri had the privilege of establishin
 
 ## Location
 
-Moose Jaw Baptist Church
-965 Hochelaga Street W 
+Moose Jaw Baptist Church\
+965 Hochelaga Street W\
 Moose Jaw SK
 
 <p>
