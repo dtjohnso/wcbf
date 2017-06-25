@@ -13,7 +13,7 @@ It is our conviction that the Biblical concept of fellowship demands that we end
 What does the WCBF believe?
 ---------------------------
 
-Below is a summary of key distinctives taken from the WCBF Statement of Faith. Please see the [Constitution]({{ '/constitution.html' | prepend: site.baseurl }}) for a complete Statement of Faith.
+Below is a summary of key distinctives taken from the WCBF Statement of Faith. Please see the [Constitution]({{ '/constitution/' | prepend: site.baseurl }}) for a complete Statement of Faith.
 
 
 * We believe that the sixty-six books of the Bible are divinely inspired in their original writing, and therefore the only rule for faith and practice.
