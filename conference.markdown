@@ -5,7 +5,7 @@ title: Annual Conference
 
 ## Upcoming Conferences
 
-In 2018, the conference will be held at [Meadowlands Baptist Church](http://www.meadowlandsbaptist.ca/) in Edmonton, AB. Further details will be posted here when they become available.
+In 2018, the conference will be held at [Meadowlands Baptist Church](http://www.meadowlandsbaptist.ca/) in Edmonton, AB on June 21--22. Further details will be posted here when they become available.
 
 -------------
 
