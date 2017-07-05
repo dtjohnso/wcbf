@@ -27,6 +27,8 @@ You may now apply online using the form available below. Once you've submitted y
     <p><label>City: </label><input type="text" name="city" required></p>
     <p><label>Church: </label><input type="text" name="church" required></p>
     <input type="submit" value="Apply">
+    <input type="hidden" name="_subject" value="WCBF membership application" />
+    <input type="hidden" name="_format" value="plain" />
     <input type="text" name="_gotcha" style="display:none" />
 </form> <style> form { display: table; } p { display: table-row; } label { display: table-cell; } input { display: table-cell; } </style>
 
