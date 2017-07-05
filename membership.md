@@ -23,7 +23,7 @@ You may now apply online using the form available below. Once you've submitted y
 <form action="https://formspree.io/wcbf.applications@outlook.com"
       method="POST">
     <p><label>Name: </label><input type="text" name="name" required></p>
-    <p><label>Email: </label><input type="email" name="_replyto" required></p>
+    <p><label>Email: </label><input type="email" name="email" required></p>
     <p><label>City: </label><input type="text" name="city" required></p>
     <p><label>Church: </label><input type="text" name="church" required></p>
     <input type="submit" value="Apply">
