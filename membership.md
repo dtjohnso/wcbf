@@ -20,20 +20,12 @@ You may now apply online using the form available below. Once you've submitted y
 
 ### Application Form
 
-<!-- <form action="https://formspree.io/wcbf.applications@outlook.com"
-      method="POST"> -->
-<form action="//flipmail.co/api/cgF7L0EaOVc0f26oSZRj" method="post">      
+<form accept-charset='UTF-8' action='http://www.formester.com/forms/06b387e7-8edd-493a-8206-143979335bc6/submissions' method='POST'>
     <p><label>Name: </label><input type="text" name="name" required></p>
     <p><label>Email: </label><input type="email" name="email" required></p>
     <p><label>City: </label><input type="text" name="city" required></p>
     <p><label>Church: </label><input type="text" name="church" required></p>
     <input type="submit" value="Apply">
-    <input type="hidden" name="_subject" value="WCBF membership application" />
-    <!-- <input type="hidden" name="_format" value="plain" /> -->
-    <!-- <input type="text" name="_gotcha" style="display:none" /> -->
-    <input type="hidden" name="_replyto" value="%email">
-    <input type="hidden" name="_from" value="%email">
-    <input type="text" name="_honey" value="" style="display:none">
 </form> <style> form { display: table; } p { display: table-row; } label { display: table-cell; } input { display: table-cell; } </style>
 
 Affiliates and Members
