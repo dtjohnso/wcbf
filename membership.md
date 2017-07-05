@@ -14,9 +14,11 @@ Why should I join the WCBF?
 How do I join the WCBF?
 -----------------------
 
-You may now apply online using the form available below. 
+You may now apply online using the form available below. Once you've submitted your online application, it will be voted on by the members at our [next AGM]({{ '/conference/' | prepend: site.baseurl }}). From Article 3, Section 2 of our [Constitution]({{ '/constitution/' | prepend: site.baseurl }}):
 
-<style> form { display: table; } p { display: table-row; } label { display: table-cell; } input { display: table-cell; } </style>
+> Churches or individuals desiring to affiliate with the Fellowship shall apply in writing to the executive committee and shall be received into membership by a two-thirds (2/3) majority vote of the pastors present and voting at the next annual meeting.
+
+### Application Form
 
 <form action="https://formspree.io/membership@wcbf.net"
       method="POST">
@@ -26,11 +28,7 @@ You may now apply online using the form available below.
     <p><label>Church: </label><input type="text" name="church" required></p>
     <input type="submit" value="Apply">
     <input type="text" name="_gotcha" style="display:none" />
-</form>
-
-Once you've submitted your online application, it will be voted on by the members at our [next AGM]({{ '/conference/' | prepend: site.baseurl }}). From Article 3, Section 2 of our [Constitution]({{ '/constitution/' | prepend: site.baseurl }}):
-
-> Churches or individuals desiring to affiliate with the Fellowship shall apply in writing to the executive committee and shall be received into membership by a two-thirds (2/3) majority vote of the pastors present and voting at the next annual meeting.
+</form> <style> form { display: table; } p { display: table-row; } label { display: table-cell; } input { display: table-cell; } </style>
 
 Affiliates and Members
 ----------------------
