@@ -31,6 +31,7 @@ You may now apply online using the form available below. Once you've submitted y
     <input type="hidden" name="_subject" value="WCBF membership application" />
     <!-- <input type="hidden" name="_format" value="plain" /> -->
     <!-- <input type="text" name="_gotcha" style="display:none" /> -->
+    <input type="hidden" name="_replyto" value="%email">
     <input type="text" name="_honey" value="" style="display:none">
 </form> <style> form { display: table; } p { display: table-row; } label { display: table-cell; } input { display: table-cell; } </style>
 
