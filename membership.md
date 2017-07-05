@@ -20,7 +20,7 @@ You may now apply online using the form available below. Once you've submitted y
 
 ### Application Form
 
-<form action="https://formspree.io/membership@wcbf.net"
+<form action="https://formspree.io/wcbf.applications@outlook.com"
       method="POST">
     <p><label>Name: </label><input type="text" name="name" required></p>
     <p><label>Email: </label><input type="email" name="_replyto" required></p>
