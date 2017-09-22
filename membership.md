@@ -40,9 +40,9 @@ Bud Talbert   | [Lighthouse Baptist Church](http://www.lighthousebaptist.ca/)| E
 Josiah Wicks  | [Lighthouse Baptist Church](http://www.lighthousebaptist.ca/)| Edmonton, AB
 Kevin Williams | [Meadowlands Baptist Church](http://www.meadowlandsbaptist.com) | Edmonton, AB
 Jerry Ascher | [Meadowlands Baptist Church](http://www.meadowlandsbaptist.com) | Edmonton, AB
-Nate Utley | [Meadowlands Baptist Church](http://www.meadowlandsbaptist.com) | Edmonton, AB
 Duncan Johnson | [Meadowlands Baptist Church](http://www.meadowlandsbaptist.com) | Edmonton, AB
 David Treau | [Meadowlands Baptist Church](http://www.meadowlandsbaptist.com) | Edmonton, AB
+Nate Utley | [Beaumont Baptist Church](http://www.beaumontbaptist.ca) | Beaumont, AB
 Andy Rynsburger | [Grace Baptist Church](http://www.gracebaptist.ca/) | Red Deer, AB
 Cyril Syroteuk | [Emmanuel Baptist Church](http://www.emmanuelbaptist3hills.ca)|Three Hills, AB
 Rod Alsup | [Cornerstone Baptist Church](http://cornerstonebaptistcalgary.com/) | Calgary, AB
