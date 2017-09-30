@@ -20,7 +20,7 @@ How do I join the WCBF?
 
 <!-- <br/> -->
 
-<form accept-charset='UTF-8' action='http://www.formester.com/forms/06b387e7-8edd-493a-8206-143979335bc6/submissions' method='POST'>
+<form accept-charset='UTF-8' action='https://app.formester.com/forms/06b387e7-8edd-493a-8206-143979335bc6/submissions' method='POST'>
     <p><label>Name: </label><input type="text" name="name" required></p>
     <p><label>Email: </label><input type="email" name="email" required></p>
     <p><label>City: </label><input type="text" name="city" required></p>
