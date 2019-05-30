@@ -51,7 +51,7 @@ Alan and his wife, Michelle, have 4 daughters.
 * 7:00 – Session 4 
 * 8:15 – Dessert Fellowship 
 
-There are plenty of things to do during the free time on Fridayafternoon: 
+There are plenty of things to do during the free time on Friday afternoon: 
 
 * Walk along the river 
 * River cruise on the Prairie Lily [book ahead] 
@@ -70,7 +70,6 @@ Saskatoon, SK S7M1G9
 </span>
 
 <p>
-	<iframe width="600" height="450" frameborder="0" style="border:0"
-src="https://www.google.com/maps/embed/v1/place?q=open%20door%20baptist%20church%201217%2011th%20Street%20West%20%20%20Saskatoon%2C%20SK%20S7M1G9&key=..." allowfullscreen></iframe>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d612.5225753986738!2d-106.68958177069348!3d52.11448573022226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5304f731df6c486d%3A0x4891a03d1bd25a56!2sOpen+Door+Baptist+Church!5e0!3m2!1sen!2sus!4v1559243285100!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </p>
 
