@@ -15,7 +15,7 @@ In 2018, the conference will be held at [Meadowlands Baptist Church](http://www.
 * Theme: "Walk Worthy of Your Calling"
 * Hosted by [Open Door Baptist Church](https://www.odbaptist.ca/), Saskatoon
 * June 20&ndash;21, 2019
-* Download the [brochure]({{ '/assets/pdf/WCBF_Conference_2018.pdf' | prepend: site.baseurl }})
+* Download the [brochure]({{ '/assets/pdf/WCBF_Conference_2019.pdf' | prepend: site.baseurl }})
 
 
 ## Registration
