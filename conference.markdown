@@ -12,73 +12,65 @@ In 2018, the conference will be held at [Meadowlands Baptist Church](http://www.
 
 ## Quick Facts
 
-* Hosted by [Meadowlands Baptist Church](http://www.meadowlandsbaptist.ca/)
-* June 21&ndash;22, 2018
-* Download the [brochure]({{ '/assets/pdf/WCBF-Annual-Conference-2018.pdf' | prepend: site.baseurl }})
-* **Please [RSVP by June 1, 2018](mailto:info@meadowlandsbaptist.com?subject=RSVP for WCBF Conference) if you plan to attend.**
+* Theme: "Walk Worthy of Your Calling"
+* Hosted by [Open Door Baptist Church](https://www.odbaptist.ca/), Saskatoon
+* June 20&ndash;21, 2019
+* Download the [brochure]({{ '/assets/pdf/WCBF_Conference_2018.pdf' | prepend: site.baseurl }})
 
 
 ## Registration
 
-There is no cost for this event; however, to adequately prepare, we need you to RSVP no later than June 1 by [email](mailto:info@meadowlandsbaptist.com?subject=RSVP for WCBF Conference) or phone (780-440-1195, ext. 21).
+There is no cost for this event, however, we will be taking an offering for our speaker during our Friday evening service. 
 
-We encourage you to bring your entire family. Childcare is provided for Thursday dinner and all sessions. Supervised activities in the gym will be available for children and teens.
+**Please [RSVP by June 10, 2018](mailto:chrisandglenda@gmail.com?subject=RSVP for WCBF Conference) if you plan to attend.**
 
-## Message from Pastor Kevin
+## Our Speaker
 
-Dear Fellow Pastors,
+Alan Benson was named vice president for student development and discipleship in May 2018 at Bob Jones University. He oversees key functions that impact the overall BJU student experience such as student discipleship, student leadership, student activities and organizations, residence life, student conduct, and student care, including counseling and physical health. 
 
-It is a joy and privilege to be partners in the Gospel with you in Western Canada. The ministry is certainly a source of blessing for us, but it can also bring discouragement at times. The apostle Paul looked forward to being refreshed by individual brothers (2 Tim 1:16) and local churches (Rom 15:32). He also commended local churches for refreshing the spirit of the Lord's ministers (2 Cor 7:13). I am eagerly anticipating our time of spiritual refreshment at the annual pastors' conference. The folks at Meadowlands are looking forward to encouraging you and your family. I am especially thrilled to have the Taylors as our guest speakers. I know you will be blessed by their ministry. In addition to our main sessions, Dean will be speaking directly to the pastors, and Faith will be speaking to the wives. We will also have childcare and activities for your children. Mark your calendars now, and prepare to be refreshed!
+Alan served as a youth pastor and senior pastor in Florida, North Carolina and Illinois for 25 years. He came to BJU from Bethel Baptist Church in Schaumburg, Illinois, where he served for five years as senior pastor of the 600-member church and president of a Christian day school of nearly 1,000 students.
 
-Kevin Williams
+He earned a BA in Bible (1992) and a master of ministry (2009) from BJU, a master of divinity from Louisiana Baptist Theological Seminary in 2011 and is a doctor of ministry candidate at BJU Seminary.
 
-## Our Speakers
-
-Dr. Dean Taylor is Chair of the Ministries Division and of the Pastoral Training Program at Faith Baptist Bible College in Ankeny, Iowa. After serving in the pastorate, his mission at this stage in life is to equip men for ministry, encourage pastors, and strengthen churches.
-
-Faith Taylor loves to teach, explaining the Word of God as it practically applies to the lives of ladies, and sharing with them His working in her own life. She is the author of *A Look Within,* a women's Bible study book and of *Pray for Him,* a prayer booklet for ministry wives.
-
-Dean and his wife, Faith, have four adult children and two grandchildren.
+Alan and his wife, Michelle, have 4 daughters. 
 
 ## Schedule
 
-**Thursday, June 21, 2018**
+**Thursday, June 21, 2019**
 
 * 6:00 pm—Dinner for Pastors and Families
-* 7:00 pm—Combined Seminar: Companionship in Ministry: Essential Elements of Unity in a Pastor's Marriage
+* 7:00 pm—Session 1
 
-**Friday, June 22, 2018**
+**Friday, June 22, 2019**
 
-9:00 am 
+* 9:00 – Session 2 
+* 10:00 – Break and Snack 
+* 10:30 – Session 3 
+* 11:30 – WCBF Annual Members Meeting 
+* 12:15 – Lunch for Pastors and Families 
+* 7:00 – Session 4 
+* 8:15 – Dessert Fellowship 
 
-* Men: Communicating Through Noise: Overcoming Distractions and Objections when Preaching the Word
-* Women: Supporting Your Husband
+There are plenty of things to do during the free time on Fridayafternoon: 
 
-10:00 am—Break
-
-10:30 am
-
-* Men: My Biggest Encouragements in Ministry
-* Women: Managing Expectations
-
-11:30 am—WCBF Annual Members' Meeting
-
-12:15 pm—Lunch for Pastors and Families
-
-7:00 pm—Combined Worship Service: The Origin of Pastoral Ministry and the Reassurance It Provides
-
-8:15 pm—Dessert Fellowship
-
+* Walk along the river 
+* River cruise on the Prairie Lily [book ahead] 
+* Golf 
+* Tennis 
+* Western Development Museum 
+* Shopping 
+* Etc. 
 
 ## Location
 
 <span>
-Meadowlands Baptist Church  
-2215 17 Street NW  
-Edmonton, AB T6T 1J1
+Open Door Baptist Church  
+1217 11th Street West  
+Saskatoon, SK S7M1G9
 </span>
 
 <p>
-	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2825.391966732613!2d-113.36822503828444!3d53.45305350410593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53a019853ce2a59f%3A0x44419b92cd9b5e17!2sMeadowlands+Baptist+Church!5e0!3m2!1sen!2sca!4v1518147606396" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+	<iframe width="600" height="450" frameborder="0" style="border:0"
+src="https://www.google.com/maps/embed/v1/place?q=open%20door%20baptist%20church%201217%2011th%20Street%20West%20%20%20Saskatoon%2C%20SK%20S7M1G9&key=..." allowfullscreen></iframe>
 </p>
 
