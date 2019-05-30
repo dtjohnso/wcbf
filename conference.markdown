@@ -36,12 +36,12 @@ Alan and his wife, Michelle, have 4 daughters.
 
 ## Schedule
 
-**Thursday, June 21, 2019**
+**Thursday, June 20, 2019**
 
 * 6:00 pm—Dinner for Pastors and Families
 * 7:00 pm—Session 1
 
-**Friday, June 22, 2019**
+**Friday, June 21, 2019**
 
 * 9:00 – Session 2 
 * 10:00 – Break and Snack 
