@@ -3,12 +3,13 @@ layout: page
 title: Annual Conference
 ---
 
-<!-- ## Upcoming Conferences
+<!--  ## Upcoming Conference
 
-In 2018, the conference will be held at [Meadowlands Baptist Church](http://www.meadowlandsbaptist.ca/) in Edmonton, AB on June 21--22. Further details will be posted here when they become available.
+In 2020, the conference will be held at MacKenzie Highway Baptist Church in High Level, AB on --> <!-- DATE --><!-- . Further details will be posted here when they become available. -->
 
-------------- 
--->
+<!-- https://goo.gl/maps/jE9Ae9pwQSqg8HCr7 -->
+<!-- -------------  -->
+
 
 ## Quick Facts
 
