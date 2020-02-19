@@ -18,6 +18,8 @@ navigation:
    url: /index.html
  - title: Conference
    url: /conference/
+ - title: Other Events
+   url: /events/
  - title: Membership
    url: /membership/
  - title: History and Beliefs
