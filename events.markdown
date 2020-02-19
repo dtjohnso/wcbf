@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Other Events
+title: Events
 ---
-
-## Other Events
 
 Each year, the WCBF hosts a number of events in addition to the [Annual Conference]({{ '/conference/' | prepend: site.baseurl }}). 
 
