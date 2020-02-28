@@ -21,3 +21,15 @@ Links:
 * [Event details](https://meadowlandsbaptist.ca/ladies-retreat-april-24-25-2020/) on Meadowlands website
 * [Brochure]({{ '/assets/pdf/2020-Ladies-Retreat-Brochure.pdf' | prepend: site.baseurl }}) (PDF download)
 * [Poster]({{ '/assets/pdf/2020-Ladies-Retreat-Poster.pdf' | prepend: site.baseurl }}) (PDF download)
+
+### Youth Summer Camp
+
+#### Teen Camp
+
+* July 27&ndash;August 1, 2020
+* Speaker: Brent Sivnksty
+
+#### Junior Camp
+
+* August 4&ndash;8, 2020 (dates tentative)
+* Speakers: Grandview Camp staff
