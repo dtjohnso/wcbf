@@ -3,73 +3,53 @@ layout: page
 title: Annual Conference
 ---
 
-## Upcoming Conference
+<!-- ## Upcoming Conference
 
 In 2020, the conference will be held at [MacKenzie Highway Baptist Church in High Level, AB](https://goo.gl/maps/jE9Ae9pwQSqg8HCr7) on June 25--26 (dates somewhat tentative). Further details will be posted here when they become available.
 
-------------- 
+-------------  -->
 
 
 ## Quick Facts
 
-* Theme: "Walk Worthy of Your Calling"
-* Hosted by [Open Door Baptist Church](https://www.odbaptist.ca/), Saskatoon
-* June 20&ndash;21, 2019
-* Download the [brochure]({{ '/assets/pdf/WCBF_Conference_2019.pdf' | prepend: site.baseurl }})
+* Hosted by MacKenzie Highway Baptist Church, High Level, AB
+* Pastor Barkley May, telephone: [780-926-3856](tel:780-926-3856)
+* June 24&ndash;26, 2020
+* Speaker: Bruce McAllister
 
-
-## Registration
-
-There is no cost for this event, however, we will be taking an offering for our speaker during our Friday evening service. 
-
-**Please [RSVP by June 10, 2018](mailto:chrisandglenda@gmail.com?subject=RSVP for WCBF Conference) if you plan to attend.**
-
-## Our Speaker
-
-Alan Benson was named vice president for student development and discipleship in May 2018 at Bob Jones University. He oversees key functions that impact the overall BJU student experience such as student discipleship, student leadership, student activities and organizations, residence life, student conduct, and student care, including counseling and physical health. 
-
-Alan served as a youth pastor and senior pastor in Florida, North Carolina and Illinois for 25 years. He came to BJU from Bethel Baptist Church in Schaumburg, Illinois, where he served for five years as senior pastor of the 600-member church and president of a Christian day school of nearly 1,000 students.
-
-He earned a BA in Bible (1992) and a master of ministry (2009) from BJU, a master of divinity from Louisiana Baptist Theological Seminary in 2011 and is a doctor of ministry candidate at BJU Seminary.
-
-Alan and his wife, Michelle, have 4 daughters. 
+<!-- * Download the [brochure]({{ '/assets/pdf/WCBF_Conference_2019.pdf' | prepend: site.baseurl }}) -->
 
 ## Schedule
 
-**Thursday, June 20, 2019**
+**Wednesday, June 24**
 
-* 6:00 pm—Dinner for Pastors and Families
-* 7:00 pm—Session 1
+* 7:00 pm – Session 1
 
-**Friday, June 21, 2019**
+**Thursday, June 25**
 
-* 9:00 – Session 2 
-* 10:00 – Break and Snack 
-* 10:30 – Session 3 
-* 11:30 – WCBF Annual Members Meeting 
-* 12:15 – Lunch for Pastors and Families 
-* 7:00 – Session 4 
-* 8:15 – Dessert Fellowship 
+* 9:30 am – Session 2
+* 11:00 am – Session 3
+* (Tentative) – WCBF annual meeting
+* 7:00 pm  – Session 4
 
-There are plenty of things to do during the free time on Friday afternoon: 
+**Friday, June 26**
 
-* Walk along the river 
-* River cruise on the Prairie Lily [book ahead] 
-* Golf 
-* Tennis 
-* Western Development Museum 
-* Shopping 
-* Etc. 
+* 9:30 am – Session 5
+* 11:00 am  – Q&A Session
+* 7:00 pm – Session 6
+
+Possibly a men's Firearms & Fellowship (skeet shooting) on Friday afternoon or possibly Saturday.
 
 ## Location
 
-<span>
-Open Door Baptist Church  
-1217 11th Street West  
-Saskatoon, SK S7M1G9
-</span>
+Location: Mackenzie Highway Baptist Church.
+
+Directions from Edmonton: 
+
+* The route via Westlock, Slave Lake, & Red Earth Creek saves about 45 minutes. 
+* The other option is to go through Whitecourt & Peace River. There are more places to stop along the way, and you get a divided highway for a couple hours, but it takes a little longer. 
 
 <p>
-	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d612.5225753986738!2d-106.68958177069348!3d52.11448573022226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5304f731df6c486d%3A0x4891a03d1bd25a56!2sOpen+Door+Baptist+Church!5e0!3m2!1sen!2sus!4v1559243285100!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1080.474886332781!2d-117.08718264182843!3d58.517342636812835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x879229aba5ad6371!2sMackenzie%20Highway%20Baptist%20Church!5e0!3m2!1sen!2sus!4v1582846151332!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 </p>
 
