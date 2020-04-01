@@ -11,7 +11,7 @@ Details will be posted here as they become available.
 
 **This event has unfortunately been cancelled.**
 
-* ~April 24&ndash;25, 2020~
+* <strike>April 24&ndash;25, 2020</strike>
 * Location: Meadowlands Baptist Church, Edmonton, AB
 * Theme: "Walking in the Light"
 * **Registration required;** small fee applies
