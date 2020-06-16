@@ -9,12 +9,20 @@ In 2020, the conference will be held at [MacKenzie Highway Baptist Church in Hig
 
 -------------  -->
 
+## COVID-19 update for 2020 conference
+
+Unfortunately, the WCBF Conference for 2020 is cancelled due to the coronavirus. 
+
+We all hope that 2021 will offer renewed opportunities for fellowship, and will update this page at a later date as plans develop.
+
+-------------
+
 
 ## Quick Facts
 
 * Hosted by MacKenzie Highway Baptist Church, High Level, AB
 * Pastor Barkley May, telephone: [780-926-3856](tel:780-926-3856)
-* June 24&ndash;26, 2020
+* <strike>June 24&ndash;26, 2020</strike>
 * Speaker: Bruce McAllister
 
 <!-- * Download the [brochure]({{ '/assets/pdf/WCBF_Conference_2019.pdf' | prepend: site.baseurl }}) -->
